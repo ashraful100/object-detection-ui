@@ -1,0 +1,19 @@
+About
+
+This is a Master Project of Mohammad Ashraful Alam, a student of Information and Automation Engineering(IAE) course, Universität Bremen, Germany.
+
+The GUI had been developed at 25th October, 2017 under the supervisory of Damon Imami, Institut für Automatisierungstechnik (IAT), Universität Bremen.
+
+Prerequisites
+
+Qt (cross-platform application framework): version 5.8.0
+
+OpenCV (Open Source Computer Vision): version 2.9.0
+
+MinGW (Cross Platform Makefile Generator): 32 bit
+
+SQLite: version 3.20.1.0
+
+All of the programs has been developed using OpenCV libraries and C++ Object Oriented Programming Language.
+
+As a Cross Platform Application Framework, Qt had been used.
