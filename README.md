@@ -6,7 +6,7 @@ About
 --
 This is a Master Project of Mohammad Ashraful Alam, a student of **Information and Automation Engineering(IAE)** course, **Universität Bremen**, Germany.
 
-The GUI had been developed at 25th October, 2017.
+The GUI had been developed at 23rd November, 2017.
 
 Prerequisites
 --
